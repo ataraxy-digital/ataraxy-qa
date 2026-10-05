@@ -1,0 +1,22 @@
+# Ataraxy Call QA 100%
+
+> Ataraxy is an applied AI agency based in Montevideo, Uruguay, serving LATAM and the US. Call QA 100% is aI-assisted quality, compliance and coaching review for human and AI calls, using the client’s scoring criteria.
+
+## Service
+
+- [Call QA 100%](https://qa.ataraxydigital.com/): AI-assisted quality, compliance and coaching review for human and AI calls, using the client’s scoring criteria.
+- [How it works](https://qa.ataraxydigital.com/#how): The delivery process and operating model.
+- [Scope and ownership](https://qa.ataraxydigital.com/#get): What the client receives and how the engagement works.
+
+## Related Ataraxy services
+
+- [Ataraxy](https://www.ataraxydigital.com/): Agency overview, implementation cases, and contact.
+- [Voice AI](https://voice.ataraxydigital.com/): Related applied AI service.
+
+## Languages and contact
+
+- [English](https://qa.ataraxydigital.com/): Call QA 100% service page in English.
+- [Español](https://qa.ataraxydigital.com/es/): Call QA 100% service page in Español.
+- [Português](https://qa.ataraxydigital.com/pt/): Call QA 100% service page in Português.
+- [简体中文](https://qa.ataraxydigital.com/zh/): Call QA 100% service page in 简体中文.
+- [Book a call](https://meet.ataraxydigital.com/): Discuss a project with Ataraxy.
